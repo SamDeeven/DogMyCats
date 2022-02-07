@@ -1,0 +1,4 @@
+username: dogmycats 
+password: DROvuzIBrIjsDoYi
+
+key: mongodb+srv://dogmycats:DROvuzIBrIjsDoYi@cluster0.7n1zp.mongodb.net/DogMyCats?retryWrites=true&w=majority
